@@ -1,2 +1,2 @@
 # codeCademy
-Projects that I've done on codeCademy course.
+Projects and practices that I've done at CodeCademy courses.
